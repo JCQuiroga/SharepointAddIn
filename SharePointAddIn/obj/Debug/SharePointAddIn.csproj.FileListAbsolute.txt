@@ -1,0 +1,3 @@
+c:\users\ericame\documents\visual studio 2015\Projects\SharePointAddIn\SharePointAddIn\bin\Debug\SharePointAddIn.pdb
+c:\users\ericame\documents\visual studio 2015\Projects\SharePointAddIn\SharePointAddIn\obj\Debug\SharePointAddIn.dll
+c:\users\ericame\documents\visual studio 2015\Projects\SharePointAddIn\SharePointAddIn\obj\Debug\SharePointAddIn.pdb
