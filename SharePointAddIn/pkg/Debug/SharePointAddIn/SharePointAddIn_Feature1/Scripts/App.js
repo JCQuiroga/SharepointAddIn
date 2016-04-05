@@ -1,4 +1,4 @@
-﻿//Codigo de luis
+﻿//Codigo de clase
 
 'use strict';
 
