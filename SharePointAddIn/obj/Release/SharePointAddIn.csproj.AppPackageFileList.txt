@@ -1,0 +1,1 @@
+C:\Users\ericame\Documents\Visual Studio 2015\Projects\SharePointAddIn\SharePointAddIn\bin\Release\app.publish\1.0.0.0\SharePointAddIn.app

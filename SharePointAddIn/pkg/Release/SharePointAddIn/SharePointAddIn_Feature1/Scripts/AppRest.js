@@ -27,7 +27,7 @@ var guardarItem = function () {
     var obj = {
         '__metadata': { 'type': 'SP.Data.PersonasListItem' },
         'Nombre': $("#input-nombre").val(),
-        'Edad': parseInt($("#input-edad").val())
+        'Edad': $("#input-edad").val()
     };
 
     $.ajax({
